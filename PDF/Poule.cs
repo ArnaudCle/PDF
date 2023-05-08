@@ -32,7 +32,7 @@ namespace PDF
         Taille taille;
 
         /// <summary>
-        /// Création d'une nouvelle instance d'un objet Poule"/>
+        /// Création d'une nouvelle instance d'un objet Poule
         /// </summary>
         /// <param name="nomP">Nom</param>
         /// <param name="raceP">Race</param>
