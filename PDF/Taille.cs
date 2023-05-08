@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace PDF
 {
+    /// <summary>
+    /// Enumération des différentes tailles possibles pour une poule
+    /// </summary>
     public enum Taille
     {
         S,      // 13-18 cm
